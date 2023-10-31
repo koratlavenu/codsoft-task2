@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-image: url(https://cdn.wallpapersafari.com/48/9/3omZfL.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: center;
+    
+}
+.home ul{
+position: relative;
+top: 25px;
+margin-left: 10px;
+display: flex;
+justify-content:space-evenly;
+align-items: center;
+}
+.home ul li a{
+text-decoration: none;
+font-family: sans-serif;
+color:white;
+text-transform: inherit;
+} 
+ul{
+    list-style: none;
+}
+h1{
+    color: white;
+    position: absolute;
+    top: 165px;
+    margin-left: 350px;
+    font-size: 60px;
+    text-transform: inherit;
+}
+p{
+    position: relative;
+    top:225px;
+    margin-left: 500px;
+    color: white;
+    font-size: larger;
+    text-transform: inherit;
+}
+li a:hover{
+    width: 100px;
+    height: 60px;
+    border: 2px solid whitesmoke;
+    background-color: slategray;
+    border-radius: 5px;
+}
+.ss{
+position: relative;
+top: 560px;
+color: white;
+}
+.k{
+    width: 270px;
+    height: 450px;
+    border: 2px solid;
+    border-radius: 15px;
+    margin-left: 50px;
+    
+
+}
+.B{
+    width: 270px;
+    height: 450px;
+    border: 2px solid;
+    border-radius: 15px;
+    position: relative;
+    bottom: 370px;
+    left:350px;
+}
+.A{
+    width: 270px;
+    height: 450px;
+    border: 2px solid;
+    border-radius: 15px;
+    position: relative;
+    bottom: 737px;
+    margin-left: 650px;
+  
+}
+.D{
+    width: 270px;
+    height: 450px;
+    border: 2px solid;
+    border-radius: 15px;
+    position: relative;
+    bottom: 1107px;
+    margin-left:950px ;
+}
+
+
+
